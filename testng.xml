@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/kurs/Udemy/Selenium i java/maven/MavenJava"><classes><class name="QaKD.RestApiTest"><methods><include name="nativeApAndroid"/><include name="deleteTwiter"/></methods></class><class name="QaKD.SeleniumTest"><methods><include name="BrowserAutomation"/><include name="elementsUi"/></methods></class></classes></test></suite>
